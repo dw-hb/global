@@ -1,15 +1,15 @@
 /*
 
-Zenburn style from voldmar.ru (c) Vladimir Epifanov <voldmar@voldmar.ru>
-based on dark.css by Ivan Sagalaev
+Zenburn custom mod by Brandon Bachman for use with Dandelion Way websites.
+Based on, Zenburn style from voldmar.ru (c) Vladimir Epifanov <voldmar@voldmar.ru>,
+which in turn is based on dark.css by Ivan Sagalaev
 
 */
 
 .hljs {
   display: block;
   overflow-x: auto;
-  padding: 0.5em;
-  background: #3f3f3f;
+  background: transparent;
   color: #dcdcdc;
 }
 
