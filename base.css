@@ -1,0 +1,280 @@
+BODY {
+  color: #fff;
+  font-family: Myraid Pro,
+               PT Sans,
+			   Ubuntu Sans,
+			   sans-serif;
+}
+
+:root {
+  --brh: 20px;
+}
+
+CODE,
+PRE,
+TABLE.pre TD,
+UL LI.pre {
+  font-family: Inconsolata,
+               Consolas,
+			   Ubuntu Mono,
+			   monospace;
+}
+
+PRE {
+  margin: 0;
+  display: block;
+}
+
+P {
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  margin: 0;
+}
+
+TABLE.pre {
+  width: 100%;
+  border: 2px solid #777;
+  border-collapse: collapse;
+}
+
+TABLE.pre TH {
+  text-align: left;
+}
+
+TABLE.pre TH,
+TABLE.pre TD {
+  border: 1px solid #777;
+}
+
+.section H2,
+.option H3 {
+  margin: 0;
+  padding: 5px 0;
+}
+
+.body A:visited,
+.msg A:visited {
+  color: #fff;
+}
+
+.inner {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.inner.body {
+  padding: 10px;
+}
+
+.inset {
+  padding: 20px;
+  margin: 20px 10px;
+  background-color: rgba(51, 51, 51, 0.5);
+  border: 2px solid #777;
+}
+
+.inset PRE {
+  line-height: 1.15;
+}
+
+PRE,
+TABLE.pre {
+  background-color: transparent;
+}
+
+.body A {
+  color: white;
+  text-shadow: 0px 0px 6px #333,
+   0px 0px 6px #333;
+}
+
+.warn A {
+  color: #f22;
+  text-shadow: 0px 0px 6px #400505,
+   0px 0px 6px #400505;
+}
+
+.info A {
+  color: #22f;
+  text-shadow: 0px 0px 6px #050540,
+   0px 0px 6px #050540
+}
+
+.good A {
+  color: #2f2;
+  text-shadow: 0px 0px 6px #054005,
+   0px 0px 6px #054005;
+}
+
+.busy A {
+  color: #ff2;
+  text-shadow: 0px 0px 6px #404005,
+   0px 0px 6px #404005;
+}
+
+.msg {
+  padding: 5px 10px;
+}
+
+.ctr {
+  text-align: center;
+}
+
+.msg H2,
+UL,
+OL {
+  margin: 0px;
+}
+
+.busy:not(.end),
+.warn:not(.end),
+.info:not(.end),
+.good:not(.end) {
+  font-weight: bold;
+}
+	
+	.end {
+	  font-weight: normal;
+	}
+
+DIV.msg:not(.bdr) {
+  border: none;
+}
+
+LI.success {
+  list-style-image: url("https://i.imgur.com/X8670Cs.png");
+}
+
+LI.failure {
+  list-style-image: url("https://i.imgur.com/rpSQgsn.png");
+}
+
+LI.txtli,
+.txtli LI {
+  list-style: none;
+  position: relative;
+  left: -1em;
+}
+
+.fauxol {
+  display: inline-block;
+  width: 1.25em;
+}
+
+UL.intl LI,
+LI.intl {
+  list-style-type: initial;
+  position: initial;
+  left: 0;
+}
+
+.body:not(.inner) {
+  padding: 16px 10px 0 10px;
+}
+
+.hl1 {
+  color: #0f0;
+}
+
+.hl2 {
+  color: #0ff;
+}
+
+.hl3 {
+  color: #ff0;
+}
+
+.hl4 {
+  color: #f0f;
+}
+
+.hl5 {
+  color: #f00;
+}
+
+.br {
+  margin-bottom: var(--brh);
+}
+
+.brh {
+  height: var(--brh);
+}
+
+.end:not(.inner) {
+  padding-bottom: 20px;
+}
+
+.nobr {
+  margin-top: 0;
+}
+
+H3.nobr {
+  margin-bottom: 0;
+}
+
+TD {
+  vertical-align: center;
+}
+
+.guide {
+  margin: 5px 0;
+  padding: 0;
+  width: 100%;
+  /*width of menu*/
+  border-bottom-width: 0;
+}
+
+.guide a.item.section,
+.guide A.item.option:not(.msg) {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.guide a.item,
+.guide a.option {
+  color: white;
+  display: block;
+  position: relative;
+  /*To help in the anchoring of the ".statusicon" icon image*/
+  width: auto;
+  padding: .01px;
+  padding-left: 10px;
+  text-decoration: none;
+}
+
+.guide a.item {
+  margin-top: 20px;
+}
+
+.guide a.option {
+  margin-top: 10px;
+}
+
+.guide a.option:first-child {
+  margin-top: 0;
+}
+
+.guide a.item:visited,
+.guide a.option:visited,
+.guide .item:active,
+.guide .option:active {
+  color: white;
+}
+
+.guide a.item .statusicon {
+  /*CSS for icon image that gets dynamically added to headers*/
+  /* position: absolute;
+  top: 5px;
+  right: 5px;
+  border: none; */
+  display: none;
+  /* I don't need this, but I can't figure out how to remove it so it disappears instead. -- Hebgbs */
+}
+
+/*DIVs that contains each sub menu*/
+.guide div.ins {
+  background: rgba(51, 51, 51, 0.5);
+}
+
+.guide div.nestins {
+  background: linear-gradient(to bottom, rgba(51, 51, 51, 0.5), rgba(51, 51, 51, 0.5)),
+  url(https://rawgit.com/dw-hb/global/img/dandy.png) no-repeat fixed center/cover;
+}

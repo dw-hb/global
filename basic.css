@@ -1,0 +1,23 @@
+BODY {
+  background: #151515;
+}
+	
+.busy {
+  background: #404005;
+  border-top: 2px solid #ff2;
+}
+
+.warn {
+  background: #400505;
+  border-top: 2px solid #f22;
+}
+
+.info {
+  background: #050540;
+  border-top: 2px solid #22f;
+}
+
+.good {
+  background: #054005;
+  border-top: 2px solid #2f2;
+}
