@@ -111,9 +111,12 @@ TABLE.pre {
    0px 0px 6px #404005;
 }
 
-.msg,
-.msg .end:not(.inner) {
+.msg{
   padding: 5px 10px;
+}
+
+.headless {
+  padding-bottom: 5px;
 }
 
 .ctr {
@@ -200,7 +203,7 @@ LI.intl {
   height: var(--brh);
 }
 
-:not(.msg) .end:not(.inner) {
+:not(.headless).end:not(.inner) {
   padding-bottom: 20px;
 }
 
@@ -273,9 +276,4 @@ TD {
 /*DIVs that contains each sub menu*/
 .guide div.ins {
   background: rgba(51, 51, 51, 0.5);
-}
-
-.guide div.nestins {
-  background: linear-gradient(to bottom, rgba(51, 51, 51, 0.5), rgba(51, 51, 51, 0.5)),
-  url(https://rawgit.com/dw-hb/global/img/dandy.png) no-repeat fixed center/cover;
 }
