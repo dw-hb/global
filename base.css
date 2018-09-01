@@ -111,7 +111,8 @@ TABLE.pre {
    0px 0px 6px #404005;
 }
 
-.msg {
+.msg,
+.msg .end:not(.inner) {
   padding: 5px 10px;
 }
 
@@ -130,7 +131,6 @@ OL {
 .info:not(.end),
 .good:not(.end) {
   font-weight: bold;
-  padding-bottom: 5px;
 }
 	
 	.end {
@@ -200,7 +200,7 @@ LI.intl {
   height: var(--brh);
 }
 
-.end:not(.inner) {
+:not(.msg) .end:not(.inner) {
   padding-bottom: 20px;
 }
 
