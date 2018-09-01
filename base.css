@@ -130,6 +130,7 @@ OL {
 .info:not(.end),
 .good:not(.end) {
   font-weight: bold;
+  padding-bottom: 5px;
 }
 	
 	.end {
