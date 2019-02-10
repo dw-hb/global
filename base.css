@@ -1,8 +1,8 @@
 BODY {
   color: #fff;
-  font-family: Myriad Pro,
-               PT Sans,
-			         Ubuntu Sans,
+  font-family: "Myriad Pro",
+               "PT Sans",
+			         "Ubuntu Sans",
 			         sans-serif;
 }
 
@@ -16,7 +16,7 @@ TABLE.pre TD,
 UL LI.pre {
   font-family: Inconsolata,
                Consolas,
-			         Ubuntu Mono,
+			         "Ubuntu Mono",
 			         monospace;
 }
 
