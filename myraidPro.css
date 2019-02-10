@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Myraid Pro";
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B1.eot');
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B1.eot') format('embedded-opentype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B1.woff') format('woff'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B1.ttf') format('truetype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B1.svg') format('svg');
+  font-style: italic;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Myraid Pro";
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B0.eot');
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B0.eot') format('embedded-opentype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B0.woff') format('woff'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B0.ttf') format('truetype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_i%2B0.svg') format('svg');
+  font-style: italic;
+}
+@font-face {
+  font-family: "Myraid Pro";
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B1.eot');
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B1.eot') format('embedded-opentype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B1.woff') format('woff'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B1.ttf') format('truetype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B1.svg') format('svg');
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Myraid Pro";
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B0.eot');
+  src: url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B0.eot') format('embedded-opentype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B0.woff') format('woff'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B0.ttf') format('truetype'),
+       url('https://gitcdn.xyz/cdn/dw-hb/fonts/adb_myraidPro/adb_myraidPro_n%2B0.svg') format('svg');
+}
