@@ -1,9 +1,9 @@
 BODY {
   color: #fff;
-  font-family: Myraid Pro,
+  font-family: Myriad Pro,
                PT Sans,
-			   Ubuntu Sans,
-			   sans-serif;
+			         Ubuntu Sans,
+			         sans-serif;
 }
 
 :root {
@@ -16,8 +16,8 @@ TABLE.pre TD,
 UL LI.pre {
   font-family: Inconsolata,
                Consolas,
-			   Ubuntu Mono,
-			   monospace;
+			         Ubuntu Mono,
+			         monospace;
 }
 
 PRE {
@@ -135,7 +135,7 @@ OL {
 .good:not(.end) {
   font-weight: bold;
 }
-	
+
 	.end {
 	  font-weight: normal;
 	}
