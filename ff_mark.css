@@ -3,14 +3,14 @@
   src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n4.eot');
   src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n4.eot') format('embedded-opentype'),
        url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n4.woff') format('woff'),
-       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n4.ttf') format('truetype');
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n4.ttf') format('ttf');
 }
 @font-face {
   font-family: "FF Mark";
   src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n3.eot');
   src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n3.eot') format('embedded-opentype'),
        url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n3.woff') format('woff'),
-       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n3.ttf') format('truetype');
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n3.ttf') format('ttf');
   font-weight: 300;
 }
 @font-face {
@@ -18,7 +18,7 @@
   src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n2.eot');
   src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n2.eot') format('embedded-opentype'),
        url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n2.woff') format('woff'),
-       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n2.ttf') format('truetype');
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/ff_mark/ff_mark_n2.ttf') format('ttf');
   font-weight: 200;
 }
 
