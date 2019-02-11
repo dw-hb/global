@@ -1,0 +1,90 @@
+#frogSteps {
+  display: block;
+}
+#frogSteps td {
+  display: inline-block;
+width: 80px;
+height: 60px;
+background-color: grey;
+margin: 2px;
+}
+.FNinner {
+  position: relative;
+width: 100%;
+height: 100%;
+}
+.FNinfo {
+  position: absolute;
+width: 100%;
+height: 0;
+text-align: center;
+}
+.FNbtn {
+  background-color: orange;
+position: absolute;
+}
+.FNbtnB {
+width: 33%;
+height: 10%;
+top: 90%;
+left: 33%;
+}
+.FNbtnRH {
+  width: 20%;
+height: 33%;
+top: 40%;
+right: 20%;
+}
+.FNbtnOK {
+width: 28%;
+height: 10%;
+top: 80%;
+left: 36%;
+}
+.FNbtnBL {
+  width: 30%;
+height: 10%;
+top: 90%;
+left: 15%;
+}
+.FNbtnLO {
+  width: 28%;
+height: 34%;
+top: 28%;
+left: 5%;
+}
+.FNbtnSD {
+  width: 25%;
+height: 25%;
+bottom: 15%;
+right: 15%;
+}
+.FNbtnP {
+  width: 25%;
+height: 25%;
+top: 10%;
+left: 10%;
+}
+.FNbtnPC {
+  width: 38%;
+height: 10%;
+bottom: 0;
+right: 0;
+}
+.FNbtnF {
+  width: 20%;
+height: 10%;
+top: 0;
+left: 20%;
+}
+.FNbtnFG {
+  width: 25%;
+height: 35%;
+bottom: 25%;
+}
+.FNbtnF1 {
+right: 25%;
+}
+.FNbtnF2 {
+right: 0;
+}
