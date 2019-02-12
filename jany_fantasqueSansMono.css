@@ -1,44 +1,46 @@
+/* Non-compliant CSS script for Fantasque.. */
+
 @font-face {
   font-family: 'Fantasque Sans Mono';
-  src: url('FantasqueSansMono_i4.eot'); /* IE 9 Compatibility Mode */
-  src: url('FantasqueSansMono_i4.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-       url('FantasqueSansMono_i4.woff2') format('woff2'),
-       url('FantasqueSansMono_i4.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-       url('FantasqueSansMono_i4.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('FantasqueSansMono_i4.svg#FantasqueSansMono_i4') format('svg'); /* Chrome < 4, Legacy iOS */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i4.eot'); /* IE 9 Compatibility Mode */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i4.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i4.woff2') format('woff2'),
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i4.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i4.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i4.svg#FantasqueSansMono_i4') format('svg'); /* Chrome < 4, Legacy iOS */
   font-weight: 400;
   font-style: italic;
 }
 @font-face {
   font-family: 'Fantasque Sans Mono';
-  src: url('FantasqueSansMono_n4.eot'); /* IE 9 Compatibility Mode */
-  src: url('FantasqueSansMono_n4.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-       url('FantasqueSansMono_n4.woff2') format('woff2'),
-       url('FantasqueSansMono_n4.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-       url('FantasqueSansMono_n4.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('FantasqueSansMono_n4.svg#FantasqueSansMono_n4') format('svg'); /* Chrome < 4, Legacy iOS */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n4.eot'); /* IE 9 Compatibility Mode */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n4.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n4.woff2') format('woff2'),
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n4.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n4.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n4.svg#FantasqueSansMono_n4') format('svg'); /* Chrome < 4, Legacy iOS */
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fantasque Sans Mono';
-  src: url('FantasqueSansMono_i7.eot'); /* IE 9 Compatibility Mode */
-  src: url('FantasqueSansMono_i7.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-       url('FantasqueSansMono_i7.woff2') format('woff2'),
-       url('FantasqueSansMono_i7.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-       url('FantasqueSansMono_i7.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('FantasqueSansMono_i7.svg#FantasqueSansMono_i7') format('svg'); /* Chrome < 4, Legacy iOS */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i7.eot'); /* IE 9 Compatibility Mode */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i7.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i7.woff2') format('woff2'),
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i7.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i7.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_i7.svg#FantasqueSansMono_i7') format('svg'); /* Chrome < 4, Legacy iOS */
   font-weight: 700;
   font-style: italic;
 }
 @font-face {
   font-family: 'Fantasque Sans Mono';
-  src: url('FantasqueSansMono_n7.eot'); /* IE 9 Compatibility Mode */
-  src: url('FantasqueSansMono_n7.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-       url('FantasqueSansMono_n7.woff2') format('woff2'),
-       url('FantasqueSansMono_n7.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-       url('FantasqueSansMono_n7.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('FantasqueSansMono_n7.svg#FantasqueSansMono_n7') format('svg'); /* Chrome < 4, Legacy iOS */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n7.eot'); /* IE 9 Compatibility Mode */
+  src: url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n7.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n7.woff2') format('woff2'),
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n7.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n7.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://gitcdn.xyz/cdn/dw-hb/global/fonts/jany_fantasqueSansMono/FantasqueSansMono_n7.svg#FantasqueSansMono_n7') format('svg'); /* Chrome < 4, Legacy iOS */
   font-weight: 700;
   font-style: normal;
 }
