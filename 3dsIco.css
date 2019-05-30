@@ -1,0 +1,49 @@
+img.3dsico {
+  display: inline-block;
+  margin-bottom: -.2em;
+  width: auto;
+  height: 1em;
+}
+
+img.icoA {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsA.svg);
+}
+img.icoB {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsb.svg);
+}
+img.icoX {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsX.svg);
+}
+img.icoY {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsY.svg);
+}
+img.icoL {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsL.svg);
+}
+img.icoR {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsR.svg);
+}
+img.icoDl {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsLeft.svg);
+}
+img.icoDr {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsRight.svg);
+}
+img.icoDu {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsUp.svg);
+}
+img.icoDd {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsDown.svg);
+}
+img.icoFl {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsLeft_F.svg);
+}
+img.icoFr {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsRight_F.svg);
+}
+img.icoFu {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsUp_F.svg);
+}
+img.icoFd {
+  background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/twit3ds/3dsDown_F.svg);
+}
