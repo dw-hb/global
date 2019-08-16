@@ -23,7 +23,7 @@ padding: 3px 7px;
 margin-right: 3px;
 border: 1px solid #778;
 color: #2d2b2b;
-background: white url(shade.gif) top left repeat-x;
+background: white url(https://gitcdn.xyz/cdn/dw-hb/global/img/shade.gif) top left repeat-x;
 }
 
 .shadetabs li a:visited{
@@ -41,7 +41,7 @@ top: 1px;
 }
 
 .shadetabs li a.selected{ /*selected main tab style */
-background-image: url(shadeactive.gif);
+background-image: url(https://gitcdn.xyz/cdn/dw-hb/global/img/shadeactive.gif);
 border-bottom-color: white;
 }
 
@@ -55,7 +55,7 @@ text-decoration: none;
 .modernbricksmenu2{
 padding: 0;
 width: 362px;
-border-top: 5px solid #D25A0B; /*Brown color theme*/ 
+border-top: 5px solid #D25A0B; /*Brown color theme*/
 background: transparent;
 voice-family: "\"}\"";
 voice-family: inherit;
@@ -83,19 +83,19 @@ color: white;
 text-decoration: none;
 margin: 0 1px 0 0; /*Margin between each menu item*/
 padding: 5px 10px;
-background-color: black; /*Brown color theme*/ 
+background-color: black; /*Brown color theme*/
 border-top: 1px solid white;
 }
 
 .modernbricksmenu2 a:hover{
-background-color: #D25A0B; /*Brown color theme*/ 
+background-color: #D25A0B; /*Brown color theme*/
 color: white;
 }
 
 .modernbricksmenu2 a.selected{ /*currently selected tab*/
-background-color: #D25A0B; /*Brown color theme*/ 
+background-color: #D25A0B; /*Brown color theme*/
 color: white;
-border-color: #D25A0B; /*Brown color theme*/ 
+border-color: #D25A0B; /*Brown color theme*/
 }
 
 /* ######### CSS for Indented CSS Tabs. Remove if not using ######### */
@@ -112,7 +112,7 @@ padding: 0;
 float: left;
 /* width: 80%; width of menu*/
 border-top: 1px solid darkred; /*darkred border*/
-background: black url(indentbg.gif) center center repeat-x;
+background: black url(https://gitcdn.xyz/cdn/dw-hb/global/img/indentbg.gif) center center repeat-x;
 }
 
 .indentmenu ul li{
@@ -135,5 +135,5 @@ color: black;
 color: black !important;
 padding-top: 4px; /*shift text down 1px*/
 padding-bottom: 2px;
-background: black url(indentbg2.gif) center center repeat-x;
+background: black url(https://gitcdn.xyz/cdn/dw-hb/global/img/indentbg2.gif) center center repeat-x;
 }
